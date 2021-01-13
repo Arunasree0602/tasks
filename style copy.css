@@ -1,0 +1,96 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image:url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 1000px;
+    background-position-x:left;
+}
+.form{
+    background:white;
+    width:470px;
+    margin:0 auto 40px;
+    padding-left:14px;
+    padding-top:20px;
+}
+h1{
+    color: white;
+    text-align:center;
+    font-style:italic;
+    padding: 50px;
+    
+}
+h2{
+    color:white;
+    text-align:left;
+    font-style:italic;
+}
+h3{
+    color:white;
+    text-align:left;
+    font-style:italic;
+}
+h4{
+    color:white;
+    text-align:left;
+    font-style:italic;
+}
+h5{
+    color:white;
+    text-align:left;
+    font-style:italic;
+    
+}
+h6{
+    color:white;
+    text-align:left;
+    font-style:italic;
+}
+label{
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+}
+#ma{
+    color:white;
+    font-size: 20px;
+    font-style: italic;
+}
+#ch{
+    color:white;
+    font-size: 20px;
+    font-style: italic;
+}
+.reg{
+    width: 40%;
+    margin:auto;
+    background-color:rgba(51, 51, 51, 0.6);
+    padding: 10px 0px 10px 0px;
+    color: white;
+    text-align: left;
+}
+#reg{
+    width: 60%;
+    margin: auto;
+}
+
+#name{
+    width: 300px;
+    outline: 0;
+    padding:5px;
+    border: 3px groove #9fabb6;
+    border-radius: 3px;
+}
+#sub{
+    width: 300px;
+    outline:0;
+    padding:5px;
+    border: 3px groove #9fabb6;
+    color:white;
+    font-size: 18px;
+    font-style: italic;
+    background-color:white;
+    border-radius: 3px;
+}
